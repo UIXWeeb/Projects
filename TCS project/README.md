@@ -31,7 +31,7 @@ By following this project, you will gain hands-on experience in utilizing AWS se
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/project-repo.git`
+1. Clone the repository: `git clone https://github.com/Aravinthkrishna-ace/Projects/tree/9cacdd18c39b8deeace6f09f8e6411bdb65a53e4/TCS%20project`
 2. Set up AWS credentials and configure AWS services accordingly.
 3. Install dependencies:
    - For the static website, no additional dependencies are required.
