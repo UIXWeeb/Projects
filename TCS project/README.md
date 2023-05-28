@@ -35,16 +35,13 @@ By following this project, you will gain hands-on experience in utilizing AWS se
 2. Set up AWS credentials and configure AWS services accordingly.
 3. Install dependencies:
    - For the static website, no additional dependencies are required.
-   - For the dynamic web application, ensure Node.js and PHP are installed on the hosting environment.
+   - For the dynamic web application, ensure PHP are installed on the hosting environment.
 4. Customize and configure the web application as per your requirements.
-
-   - For the static website, replace the contents of the `index.html`, `styles.css`, and other static files with your own content.
+   - For the static website, replace the contents of the `index.html` and other static files with your own content.
    - For the dynamic web application, update the necessary configuration files and scripts according to your application logic.
-
 5. Deploy the web application to the appropriate AWS services:
    - For the static website, upload the static files to an S3 bucket and configure it for static website hosting. Access the website via the provided S3 bucket URL.
    - For the dynamic web application, launch an EC2 instance, configure networking components using VPC, and install any required packages. Deploy the web application code and access it through the public IP or domain assigned to the EC2 instance.
-
 6. Test the functionality of your web application and make any necessary adjustments.
 
 ## Usage
@@ -62,7 +59,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-I would like to express my gratitude to [Mentor Name] for their guidance and support throughout this project.
+I would like to express my gratitude to the Industry Mentor Krishna Sharma from TCS ion for their guidance and support throughout this project.
 
 ## Contact
 
