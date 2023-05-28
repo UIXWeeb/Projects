@@ -6,9 +6,13 @@
 
 Traditional on-premises web architectures require complex solutions and accurate reserved capacity forecast in order to ensure reliability. Dense peak traffic periods and wild swings in traffic patterns result in low utilization rates of expensive hardware. This yields high operating costs to maintain idle hardware, and an inefficient use of capital for underused hardware. Amazon Web Services (AWS) provides a reliable, scalable, secure, and highly performing infrastructure for the most demanding web applications. This infrastructure matches IT costs with customer traffic patterns in nearreal time.
 
-##Project Objective and Brief
- 
-When you are responsible for running a web application, you could face a variety of infrastructure and architectural issues for which AWS can provide seamless and cost-effective solutions. The following are some of the benefits of using AWS over a traditional hosting model.
+## Project Objective and Brief
+
+When you are responsible for running a web application, you could face a variety of infrastructure and architectural issues for which AWS can provide seamless and cost-effective solutions. Amazon Web Services (AWS) offers a reliable, scalable, secure, and highly performing infrastructure for the most demanding web applications. By leveraging AWS services, you can match IT costs with customer traffic patterns in near-real time, leading to improved efficiency and reduced operating costs compared to traditional hosting models.
+
+The objective of this project is to develop a web application on AWS, showcasing the benefits and capabilities of AWS services. The project includes the creation of a static website hosted on AWS S3, as well as a dynamic web application hosted on AWS EC2, leveraging the infrastructure-as-a-service (IaaS) capabilities. Additionally, VPC (Virtual Private Cloud) is used to configure networking components for enhanced security and control.
+
+By following this project, you will gain hands-on experience in utilizing AWS services for web application hosting, understanding the advantages of cloud infrastructure, and implementing cost-effective solutions for your web applications.
 
 ## Features
 
