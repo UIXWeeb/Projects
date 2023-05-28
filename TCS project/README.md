@@ -1,10 +1,14 @@
-# Project Name
+#  DEVELOPING WEB APPLICATION ON AWS
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Description
 
-This project is a web application developed on AWS, showcasing the implementation of a static website and a dynamic web application. It utilizes various AWS services such as Amazon S3, EC2, and VPC for hosting and configuring the web application.
+Traditional on-premises web architectures require complex solutions and accurate reserved capacity forecast in order to ensure reliability. Dense peak traffic periods and wild swings in traffic patterns result in low utilization rates of expensive hardware. This yields high operating costs to maintain idle hardware, and an inefficient use of capital for underused hardware. Amazon Web Services (AWS) provides a reliable, scalable, secure, and highly performing infrastructure for the most demanding web applications. This infrastructure matches IT costs with customer traffic patterns in nearreal time.
+
+##Project Objective and Brief
+ 
+When you are responsible for running a web application, you could face a variety of infrastructure and architectural issues for which AWS can provide seamless and cost-effective solutions. The following are some of the benefits of using AWS over a traditional hosting model.
 
 ## Features
 
